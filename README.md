@@ -27,13 +27,13 @@ To play **Centipede** on your local machine, follow the instructions below.
 
 1. **Clone the Repository** 📥
    ```bash
-   git clone https://github.com/yourusername/centipede-game.git
+   git clone https://github.com/nekablair/centipede.git
    ```
 
 2. **Open the Project** 🔑
    Navigate to the project directory:
    ```bash
-   cd centipede-game
+   cd centipede
    ```
 
 3. **Install Dependencies (if needed)** ⚡
